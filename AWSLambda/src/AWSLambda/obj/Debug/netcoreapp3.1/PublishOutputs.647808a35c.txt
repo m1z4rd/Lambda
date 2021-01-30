@@ -1,0 +1,6 @@
+/Users/mizard/Documents/Projects/AWS/Lambda/AWSLambda/src/AWSLambda/bin/Debug/netcoreapp3.1/publish/AWSLambda.dll
+/Users/mizard/Documents/Projects/AWS/Lambda/AWSLambda/src/AWSLambda/bin/Debug/netcoreapp3.1/publish/AWSLambda.deps.json
+/Users/mizard/Documents/Projects/AWS/Lambda/AWSLambda/src/AWSLambda/bin/Debug/netcoreapp3.1/publish/AWSLambda.runtimeconfig.json
+/Users/mizard/Documents/Projects/AWS/Lambda/AWSLambda/src/AWSLambda/bin/Debug/netcoreapp3.1/publish/AWSLambda.pdb
+/Users/mizard/Documents/Projects/AWS/Lambda/AWSLambda/src/AWSLambda/bin/Debug/netcoreapp3.1/publish/Amazon.Lambda.Core.dll
+/Users/mizard/Documents/Projects/AWS/Lambda/AWSLambda/src/AWSLambda/bin/Debug/netcoreapp3.1/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
