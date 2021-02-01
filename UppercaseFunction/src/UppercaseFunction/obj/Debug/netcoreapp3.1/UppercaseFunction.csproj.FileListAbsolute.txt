@@ -1,0 +1,15 @@
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/bin/Debug/netcoreapp3.1/UppercaseFunction.deps.json
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/bin/Debug/netcoreapp3.1/UppercaseFunction.runtimeconfig.json
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/bin/Debug/netcoreapp3.1/UppercaseFunction.runtimeconfig.dev.json
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/bin/Debug/netcoreapp3.1/UppercaseFunction.dll
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/bin/Debug/netcoreapp3.1/UppercaseFunction.pdb
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/bin/Debug/netcoreapp3.1/Amazon.Lambda.Core.dll
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/bin/Debug/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/obj/Debug/netcoreapp3.1/UppercaseFunction.csprojAssemblyReference.cache
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/obj/Debug/netcoreapp3.1/UppercaseFunction.AssemblyInfoInputs.cache
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/obj/Debug/netcoreapp3.1/UppercaseFunction.AssemblyInfo.cs
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/obj/Debug/netcoreapp3.1/UppercaseFunction.csproj.CoreCompileInputs.cache
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/obj/Debug/netcoreapp3.1/UppercaseFunction.csproj.CopyComplete
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/obj/Debug/netcoreapp3.1/UppercaseFunction.dll
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/obj/Debug/netcoreapp3.1/UppercaseFunction.pdb
+/Users/mizard/Documents/Projects/AWS/Lambda/UppercaseFunction/src/UppercaseFunction/obj/Debug/netcoreapp3.1/UppercaseFunction.genruntimeconfig.cache

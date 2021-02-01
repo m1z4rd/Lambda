@@ -14,7 +14,7 @@ namespace AWSLambda.Tests
     public class FunctionTest
     {
         [Fact]
-        public void TestToUpperFunction()
+        public void Function()
         {
 
             // Invoke the lambda function and confirm the string was upper cased.

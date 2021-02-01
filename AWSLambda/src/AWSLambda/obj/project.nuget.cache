@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5td9kIGdR2MuPZQVHyZPUWtqPfBlBmcwZhLr0icH83XNT62xzjAVFWPTWnAi17wIUWpX06+szDzziRDJJBGpGQ==",
+  "dgSpecHash": "9Ht8N5vRzn/3UsOO8LH1eoJJhhaVvYxZ1ikK2CIEe7wjUJO3twiK0B7lClkGID1EuiCzYx6aR8lyxHIWtLwARw==",
   "success": true,
   "projectFilePath": "/Users/mizard/Documents/Projects/AWS/Lambda/AWSLambda/src/AWSLambda/AWSLambda.csproj",
   "expectedPackageFiles": [

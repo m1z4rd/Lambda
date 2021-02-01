@@ -14,7 +14,7 @@ namespace AWSLambda
     {
         public string FunctionHandler(Student input, ILambdaContext context)
         {
-            return $"Name {input.Name}, {input.Email}";
+            return $"Name:{input.Name}, Email:{input.Email}";
         }
     }
 }
