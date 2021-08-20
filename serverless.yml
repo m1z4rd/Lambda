@@ -76,11 +76,11 @@ functions:
       - http:
           path: /v1/api/post
           method: post
-          cors: false
+          cors: true
       - http:
           path: /v1/api/post
           method: any
-          cors: false
+          cors: true
       #PUT Method
       - http:
           path: /v1/api/put

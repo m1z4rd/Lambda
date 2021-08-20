@@ -38,7 +38,10 @@ let posts = async function (_email, _ip) {
       let response = {
       statusCode: 200,
       headers: {
-            "Content-Type": "application/json"
+            "Content-Type": "application/json",
+            "Access-Control-Allow-Headers" : "Content-Type",
+            "Access-Control-Allow-Methods": "UPDATE,PUT,POST,GET",
+            "Access-Control-Allow-Origin": "*"
         },
       body: doc,
       "isBase64Encoded": false
