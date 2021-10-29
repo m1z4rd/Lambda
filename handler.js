@@ -20,13 +20,13 @@ let gets = async () => {
 };
 
 //****** Insert One Document
-let posts = async function (_email, _ip, _country, _flag) {
+let posts = async function (_name, _email, _ip, _country, _flag) {
   try 
   {
       console.log('--- Enter to POST function ----');
       const db = await connectToDatabase();
       const collection = db.collection(coll);
-      let doc = {"email": _email, "ip": _ip, "country": _country, "flag": _flag};
+      let doc = {"name": _name ,"email": _email, "ip": _ip, "country": _country, "flag": _flag};
       
       console.log("Info to Insert: "+ doc);
       //console.log("event object: "+ JSON.stringify(event, null, 2));
@@ -126,7 +126,7 @@ exports.index = async function (event, context)
     {
       //console.log("event object: "+ JSON.stringify(event, null, 2));
       //console.log("context object: "+ JSON.stringify(context, null, 2));
-      return posts(event['email'], event['ip'], event['country'], event['flag']);
+      return posts(event['name'], event['email'], event['ip'], event['country'], event['flag']);
     }
     else if(http_method == 'PUT')
     {
